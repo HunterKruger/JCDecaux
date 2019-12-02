@@ -23,7 +23,7 @@ Install Jupyter Notebook by:
 "ClusteringForCityBike.py" is witten in python version 3.6
 
 Grant access by: 
-+ *chomd 777 ClusteringForCityBike.py*
++ *chmod 777 ClusteringForCityBike.py*
 
 Install related packages by:
 + *pip install pandas==0.25.3*
